@@ -1,3 +1,6 @@
 [submodule "incubator-hawq"]
 	path = incubator-hawq
 	url = https://github.com/apache/incubator-hawq.git
+[submodule "thirdparty/googletest"]
+	path = thirdparty/googletest
+	url = git@github.com:google/googletest
